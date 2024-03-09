@@ -189,3 +189,5 @@ Start of level 6:
 In level 6 you are given an IAM access key, and told that it has been granted the SecurityAudit policy. The SecurityAudit policy allows read-only access to many of AWS' services and resources. It's generally used for security monitoring of an environment, or by audit personnel.
 
 Establish an `aws` CLI profile with the access key to list S3 buckets for the account and immediately finda bucket named: `theend-...[stripped]...flaws.cloud`. Navigating to the bucket though informs you that you need to list and navigate to, again, another sub-directory within this bucket to complete the challenge.
+
+[pause until next time]
